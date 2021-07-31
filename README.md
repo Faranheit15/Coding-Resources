@@ -230,6 +230,13 @@ focus on what matters</a>
     </li>
 </ul>
 
+<h3>Android Development</h3>
+<ul>
+    <li>
+        <a href="https://www.vogella.com/tutorials/android.html">ANDROID DEVELOPMENT TUTORIALS - ANDROID, ACTIVITY, INTENT, ADT, SERVICES, BROADCASTRECEIVER</a>
+    </li>
+</ul>
+
 <h3>Machine Learning: Websites to get free ML Datasets</h3>
 <ul>
     <li>
