@@ -1,5 +1,7 @@
 <h1>Coding-Resources</h1>
 
+<em>I Google a lot while coding and later forget about the solution. So, this is a one stop repository to store all the resources that I come across. Feel free to use them, and feel free to slide into my DMs or make a PR if you have something useful to contribute.</em>
+
 <h3>Awesome Repos</h3>
 <ul>
     <li>
@@ -50,15 +52,6 @@
 <ul>
     <li>
         <a href="https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m">Placement Preparation</a>
-    </li>
-    <li>
-        <a href=""></a>
-    </li>
-    <li>
-        <a href=""></a>
-    </li>
-    <li>
-        <a href=""></a>
     </li>
 </ul>
 
