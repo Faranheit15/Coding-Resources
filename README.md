@@ -46,6 +46,22 @@
     </li>
 </ul>
 
+<h3>Drive and Torrent links for Courses and Resources</h3>
+<ul>
+    <li>
+        <a href="https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m">Placement Preparation</a>
+    </li>
+    <li>
+        <a href=""></a>
+    </li>
+    <li>
+        <a href=""></a>
+    </li>
+    <li>
+        <a href=""></a>
+    </li>
+</ul>
+
 <h3>Tools</h3>
 <ul>
     <li>
@@ -61,12 +77,163 @@ focus on what matters</a>
     <li>
         <a href="https://unsplash.com/">The internet’s source of freely-usable images</a>
     </li>
+    <li>
+        <a href="https://musicforprogramming.net/">Music For Programming</a>
+    </li>
+    <li>
+        <a href="https://ide.onelang.io/">Programming Language Convertor</a>
+    </li>
+    <li>
+        <a href="https://http.cat/">HTTP Cat</a>
+    </li>
+    <li>
+        <a href="https://iconscout.com/">Iconscout</a>
+    </li>
+    <li>
+        <a href="http://www.csszengarden.com/">CSS Zen Garden</a>
+    </li>
+    <li>
+        <a href="https://alistapart.com/">A List Apart</a>
+    </li>
+    <li>
+        <a href="https://www.codeproject.com/">Code Project</a>
+    </li>
+    <li>
+        <a href="https://scotch.io/">Scotch</a>
+    </li>
+    <li>
+        <a href="https://tutsplus.com/">TutsPlus</a>
+    </li>
+    <li>
+        <a href="https://www.creativebloq.com/">Creative Blog</a>
+    </li>
+    <li>
+        <a href="https://tympanus.net/codrops/">Codrops</a>
+    </li>
+    <li>
+        <a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs</a>
+    </li>
+    <li>
+        <a href="https://www.theodinproject.com/">The Odin Project</a>
+    </li>
+    <li>
+        <a href="https://www.codewars.com/">Code Wars</a>
+    </li>
+    <li>
+        <a href="https://wpsessions.com/">WpSessions</a>
+    </li>
+    <li>
+        <a href="https://cssauthor.com/">CSS Author</a>
+    </li>
+    <li>
+        <a href="https://laracasts.com/">Laracasts</a>
+    </li>
+    <li>
+        <a href="https://www.webdesignernews.com">Web Design News</a>
+    </li>
+    <li>
+        <a href="https://uxmovement.com/">UX Movement</a>
+    </li>
+    <li>
+        <a href="https://www.gradientmagic.com/">Gradient Magic</a>
+    </li>
+    <li>
+        <a href="https://trianglify.io/">Trianglify</a>
+    </li>
+    <li>
+        <a href="https://css-tricks.com/">CSS Tricks</a>
+    </li>
+    <li>
+        <a href="https://freefrontend.com/">Free Frontend</a>
+    </li>
+    <li>
+        <a href="https://codemyui.com/">Code My UI</a>
+    </li>
+    <li>
+        <a href="https://cssreference.io/">CSS Reference</a>
+    </li>
+    <li>
+        <a href="https://htmlreference.io/">HTML Reference</a>
+    </li>
+    <li>
+        <a href="https://www.sitepoint.com/">Site Point</a>
+    </li>
+    <li>
+        <a href="https://www.free-css.com/">Free CSS</a>
+    </li>
+    <li>
+        <a href="https://pythonawesome.com/">Awesome Python</a>
+    </li>
+    <li>
+        <a href="https://fun-javascript-projects.com/">Fun JavaScript Projects</a>
+    </li>
+    <li>
+        <a href="https://daily.dev/">Daily Dev</a>
+    </li>
+    <li>
+        <a href="https://shortcode.dev/">ShortCode Dev</a>
+    </li>
+    <li>
+        <a href="https://www.whatruns.com/">What Runs</a>
+    </li>
+    <li>
+        <a href="https://1loc.dev/">1LOC</a>
+    </li>
+    <li>
+        <a href="https://webcode.tools/">Web Code Tools</a>
+    </li>
+    <li>
+        <a href="http://ami.responsivedesign.is/">Am I Responsive</a>
+    </li>
+    <li>
+        <a href="https://www.shapedivider.app/">Shape Divider</a>
+    </li>
+    <li>
+        <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius</a>
+    </li>
+    <li>
+        <a href="https://cssgradient.io/">CSS Gradient</a>
+    </li>
+    <li>
+        <a href="https://bennettfeely.com/clippy/">CSS Clip Path </a>
+    </li>
+    <li>
+        <a href="https://csslayout.io/">CSS Layout</a>
+    </li>
+    <li>
+        <a href="https://www.30secondsofcode.org/">30 Seconds Of Code</a>
+    </li>
+    <li>
+        <a href="https://undraw.co/">Undraw</a>
+    </li>
+    <li>
+        <a href="https://www.humaaans.com/">Humaaans</a>
+    </li>
+    <li>
+        <a href="https://w3layouts.com/">W3 Layouts</a>
+    </li>
+    <li>
+        <a href="https://templatemo.com/">Templatemo</a>
+    </li>
+    <li>
+        <a href="https://www.tooplate.com/">Tooplate</a>
+    </li>
+    <li>
+        <a href=""></a>
+    </li>
 </ul>
 
 <h3>Data Structures and Algorithms</h3>
 <ul>
     <li>
         <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">Data Structure Visualizations</a>
+    </li>
+</ul>
+
+<h3>Cloud</h3>
+<ul>
+    <li>
+        <a href="https://github.com/gregsramblings/google-cloud-4-words/blob/master/DarkPoster.pdf">Google Cloud Cheatsheet</a>
     </li>
 </ul>
 
