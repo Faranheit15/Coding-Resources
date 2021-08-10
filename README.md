@@ -2,7 +2,7 @@
 
 <em>I Google a lot while coding and later forget about the solution. So, this is a one stop repository to store all the resources that I come across. Feel free to use them, and feel free to slide into my DMs or make a PR if you have something useful to contribute.</em>
 
-<h3>Awesome Repos</h3>
+<h3>Awesome Repos 💼</h3>
 <ul>
     <li>
         <a href="https://github.com/railsgirls/railsgirls.github.io">Rails Girls Guides</a>
@@ -48,14 +48,14 @@
     </li>
 </ul>
 
-<h3>Drive and Torrent links for Courses and Resources</h3>
+<h3>Drive and Torrent links for Courses and Resources 📚</h3>
 <ul>
     <li>
         <a href="https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m">Placement Preparation</a>
     </li>
 </ul>
 
-<h3>Tools</h3>
+<h3>Tools ⚙️</h3>
 <ul>
     <li>
         <a href="https://writtyapp.com/?ref=hiddentools">Writty - A minimalist writing app to help you
@@ -214,28 +214,28 @@ focus on what matters</a>
     </li>
 </ul>
 
-<h3>Data Structures and Algorithms</h3>
+<h3>Data Structures and Algorithms 📊</h3>
 <ul>
     <li>
         <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">Data Structure Visualizations</a>
     </li>
 </ul>
 
-<h3>Cloud</h3>
+<h3>Cloud ☁️</h3>
 <ul>
     <li>
         <a href="https://github.com/gregsramblings/google-cloud-4-words/blob/master/DarkPoster.pdf">Google Cloud Cheatsheet</a>
     </li>
 </ul>
 
-<h3>Android Development</h3>
+<h3>Android Development 📱</h3>
 <ul>
     <li>
         <a href="https://www.vogella.com/tutorials/android.html">ANDROID DEVELOPMENT TUTORIALS - ANDROID, ACTIVITY, INTENT, ADT, SERVICES, BROADCASTRECEIVER</a>
     </li>
 </ul>
 
-<h3>Machine Learning: Websites to get free ML Datasets</h3>
+<h3>Machine Learning: Websites to get free ML Datasets 🎰</h3>
 <ul>
     <li>
         <a href="http://visualgenome.org/">Visual Genome</a>
@@ -281,7 +281,7 @@ focus on what matters</a>
     </li>
 </ul>
 
-<h3>Web Development</h3>
+<h3>Web Development 🌐</h3>
 <ul>
     <li>
         <a href="https://app.diagrams.net/">Diagrams -  This is such a great web for draw a lot of diagrams you need. I use it for my databases as long as I need to share with my peers</a>
@@ -300,7 +300,7 @@ focus on what matters</a>
     </li>
 </ul>
 
-<h3>SQL: Learning and Practicing; Resources and Platforms</h3>
+<h3>SQL: Learning and Practicing; Resources and Platforms 📉</h3>
 <ul>
     <li>
         <a href="https://sqlbolt.com/">SQL Bolt</a>
