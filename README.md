@@ -183,37 +183,34 @@ focus on what matters</a>
         <a href="https://www.shapedivider.app/">Shape Divider - We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool.</a>
     </li>
     <li>
-        <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius</a>
+        <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius - Generate cool border CSS</a>
     </li>
     <li>
-        <a href="https://cssgradient.io/">CSS Gradient</a>
+        <a href="https://cssgradient.io/">CSS Gradient - Generate Gradients</a>
     </li>
     <li>
-        <a href="https://bennettfeely.com/clippy/">CSS Clip Path </a>
+        <a href="https://bennettfeely.com/clippy/">CSS Clip Path - The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.</a>
     </li>
     <li>
         <a href="https://csslayout.io/">CSS Layout</a>
     </li>
     <li>
-        <a href="https://www.30secondsofcode.org/">30 Seconds Of Code</a>
+        <a href="https://www.30secondsofcode.org/">30 Seconds Of Code - Short Code snippets for all your development needs</a>
     </li>
     <li>
-        <a href="https://undraw.co/">Undraw</a>
+        <a href="https://undraw.co/">Undraw - Create better designed websites, products and applications. Browse to find the images that fit your messaging, automagically customise the color to match your brand and use it as a normal image, embedded code or directly in your design workflow.</a>
     </li>
     <li>
-        <a href="https://www.humaaans.com/">Humaaans</a>
+        <a href="https://www.humaaans.com/">Humaaans - Mix-&-match illustrations of people with a design library</a>
     </li>
     <li>
         <a href="https://w3layouts.com/">W3 Layouts</a>
     </li>
     <li>
-        <a href="https://templatemo.com/">Templatemo</a>
+        <a href="https://templatemo.com/">Templatemo - Free HTML5 CSS Website Templates</a>
     </li>
     <li>
-        <a href="https://www.tooplate.com/">Tooplate</a>
-    </li>
-    <li>
-        <a href=""></a>
+        <a href="https://www.tooplate.com/">Tooplate - Free HTML Templates for everyone!</a>
     </li>
 </ul>
 
