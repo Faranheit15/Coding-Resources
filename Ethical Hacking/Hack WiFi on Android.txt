@@ -1,0 +1,42 @@
+[Forwarded from HACK EVERYTHING]
+🔥How To Install Backtrack & Hack Wifi On Android🔥
+ 
+Requirements 
+1. Rooted Android Device [ Root your Android ]
+2. Download Backtrack ARM
+3. Download BusyBox
+4. Download Android VNC
+5. Download Android Terminal
+6. If you are using PC then you need 7zip for extraction otherwise you can use Download Zarachiever on your android phone.
+
+Steps To Install Backtrack & Hack Wifi On Android
+
+🌑First, extract the BT5-GNOME-ARM.7z. and copy “BT5” folder and then put in your android root directory. For example- My Phones Root Directory is /sd card. (As different androids will have different root directories).
+✍️Install all apps that given in requirements.
+✍️After installing BusyBox application open it and wait until it finishes loading and then click on Smart install button of the application.
+✍️In your, Android open the terminal app and then execute the given commands.
+su
+cd /sdcard/BT5
+sh bootbt
+✍️When su commands executed it will ask for Super User access you have to click on Grant on the prompt appear.
+Now after this type the commands:
+export USER=root
+unpassed
+✍️Now you will be asked to enter the password, @hacklikeapro enter your choice and press Enter.
+✍️Now type the below command:
+TightVNC server -geometry 1280×720
+✍️The terminal emulator will create the localhost to connect it to VNC server. : Now note the localhost port marked red below. Now minimize the terminal emulator.
+✍️Open the Android VNC and type the following settings given:
+Nickname: BT5
+Password: same password as entered in terminal
+Address: localhost
+Port: 5906
+
+Process completed! Now just click on Backtrack on your Android Phone.
+Use this method and do hacking with Android.
+
+#stay_tuned
+#UNMUTE_channel
+
+📌 Share to help us 📌
+@anonymous_hackerzz

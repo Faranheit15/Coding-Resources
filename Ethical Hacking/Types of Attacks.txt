@@ -1,0 +1,51 @@
+[Forwarded from HACK EVERYTHING]
+??Top 10 Common Hacking Techniques All Beginners Should Know About.
+
+?? Black Hat hacking can be called an illegal activity to get unauthorized information by modifying a system’s features and exploiting its loopholes. In this world where most of the things happen online, hacking provides wider opportunities for the hackers to gain unauthorized access to the unclassified information like credit card details, email account details, and other personal information.
+
+So, it is also important to know some of the hacking techniques that are commonly used to get your personal information in an unauthorized way.
+
+10. Keylogger
+Keylogger is a simple software that records the key sequence and strokes of your keyboard into a log file on your machine. These log files might even contain your personal email IDs and passwords.
+
+Keylogger is one of the main reasons why online banking sites give you an option to use their virtual keyboards.
+
+9. Denial of Service (DoS\DDoS)
+A Denial of Service attack is a hacking technique to take down a site or server by flooding that site or server with a lot of traffic that the server is unable to process all the requests in the real time and finally crashes down.
+
+For DDoS attacks, hackers often deploy botnets or zombie computers which have got the only work to flood your system with request packets.
+
+8. Waterhole attacks
+If you are a big fan of Discovery or National Geographic channels, you could relate easily with the waterhole attacks. To poison a place, in this case, the hacker hits the most accessible physical point of the victim.
+
+For example, if the source of a river is poisoned, it will hit the entire stretch of animals during summer. In the same way, hackers target the most accessed physical location to attack the victim. That point could be a coffee shop, a cafeteria etc.
+
+Once hackers are aware of your timings, they might create a fake Wi-Fi access point and modify your most visited website to redirect them to you to get your personal information.
+
+7. Fake WAP
+Even just for fun, a hacker can use software to fake a wireless access point. This WAP connects to the official public place WAP. Once you get connected the fake WAP, a hacker can access your data, just like in the above case. 
+
+6. Eavesdropping (Passive Attacks)
+Unlike other attacks which are active in nature, using a passive attack, a hacker just monitors the computer systems and networks to gain some unwanted information.
+
+The motive behind eavesdropping is not to harm the system but to get some information without being identified.
+
+5. Phishing
+Phishing is a hacking technique using which a hacker replicates the most-accessed sites and traps the victim by sending that spoofed link.
+
+Once the victim tries to login or enter some data, the hacker gets that private information of the target victim using the trojan running on the fake site.
+
+4. Virus, Trojan etc.
+Virus or trojans are malicious software programs which get installed into the victim’s system and keeps sending the victims data to the hacker.
+
+3. ClickJacking Attacks
+ClickJacking is also known by a different name, UI Redress. In this attack, the hacker hides the actual UI where the victim is supposed to click.
+
+In another word, the attacker hijacks the clicks of the victim that aren’t meant for the exact page, but for a page where the hacker wants you to be.
+
+2. Cookie theft
+The cookies of a browser keep our personal data such as browsing history, username, and passwords for different sites that we access. Once the hacker gets the access to your cookie, he can even authenticate himself as you on a browser.
+
+1. Bait and switch
+Using bait and switch hacking technique, the hacker runs a malicious program which the user believes to be authentic. This way, after installing the malicious program on your computer, the hacker gets unprivileged access to your computer.
+ 

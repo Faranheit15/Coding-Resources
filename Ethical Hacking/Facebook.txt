@@ -1,0 +1,20 @@
+Using anomor: This is website anomor.com which helps to hack FB account [it is not automatically]. It is the easiest way to hack Facebook from mobile. No matter either you are using Android or iPhone.
+
+Here is how can you use it.
+
+Open Anomor.com.  Click on sing up. It mistakenly spelled by owner. Create your account.
+After creating account login your account. When you log in you will see something like this (this is cropped screenshot).  Click on link 1.  
+It will open a website which will look like this screenshot. Enter any username and password. You will redirect to some proxy website.
+But on the side username and password will be saved. Follow these steps to see the password.
+
+Login your account to anomor.com.
+Click on My victim, and you can see this username and password.
+If you send link 1 your victim and if he logged in you will get his password and username. 
+
+Make fake login page of the Facebook Login page:  This is the old, best and most comfortable method to hack Facebook account not only mobile also work desktop. In hacking, it is known as phishing.
+
+
+ 
+To understand phishing see this screenshot which looks like Facebook login page but in reality, it is fake ( phishing page have a different URL).
+
+In other words, It is website look like original Facebook.    If anybody login here he/she will redirect to the Facebook and his username and password will be saved in text file. Like other methods you do not need any coding, it is just copy-pasting.

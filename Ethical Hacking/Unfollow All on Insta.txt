@@ -1,0 +1,12 @@
+View your followers, then scroll down until you can't scroll anymore (its about 10 pages). Then use this in the javascript console:
+
+var $btns = $(".follow-button")
+, to = 0;
+
+$.each($btns, function(i, x){
+ setTimeout(function(){
+   $(x).click();
+ }, to);
+
+ to += 400;
+});
