@@ -58,17 +58,17 @@
 <h3>Tools</h3>
 <ul>
     <li>
-        <a href="https://writtyapp.com/?ref=hiddentools">A minimalist writing app to help you
+        <a href="https://writtyapp.com/?ref=hiddentools">Writty - A minimalist writing app to help you
 focus on what matters</a>
     </li>
     <li>
-        <a href="https://hiddentools.dev/">Hidden Tools</a>
+        <a href="https://hiddentools.dev/">Hidden Tools - Discover a wide collection of tools made by the community - for you. ✨👇🏻</a>
     </li>
     <li>
         <a href="https://devhints.io/">TL;DR for Developer Documentation</a>
     </li>
     <li>
-        <a href="https://unsplash.com/">The internet’s source of freely-usable images</a>
+        <a href="https://unsplash.com/">Unsplash - The internet’s source of freely-usable images</a>
     </li>
     <li>
         <a href="https://musicforprogramming.net/">Music For Programming</a>
@@ -77,22 +77,22 @@ focus on what matters</a>
         <a href="https://ide.onelang.io/">Programming Language Convertor</a>
     </li>
     <li>
-        <a href="https://http.cat/">HTTP Cat</a>
+        <a href="https://http.cat/">HTTP Cats - Generate cat images based on the HTTP request code</a>
     </li>
     <li>
-        <a href="https://iconscout.com/">Iconscout</a>
+        <a href="https://iconscout.com/">Iconscout - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.</a>
     </li>
     <li>
-        <a href="http://www.csszengarden.com/">CSS Zen Garden</a>
+        <a href="http://www.csszengarden.com/">CSS Zen Garden - A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.</a>
     </li>
     <li>
-        <a href="https://alistapart.com/">A List Apart</a>
+        <a href="https://alistapart.com/">A List Apart - A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices.</a>
     </li>
     <li>
-        <a href="https://www.codeproject.com/">Code Project</a>
+        <a href="https://www.codeproject.com/">Code Project - A forum for people who code.</a>
     </li>
     <li>
-        <a href="https://scotch.io/">Scotch</a>
+        <a href="https://scotch.io/">Scotch - fun and practical web development tutorials</a>
     </li>
     <li>
         <a href="https://tutsplus.com/">TutsPlus</a>
@@ -101,46 +101,47 @@ focus on what matters</a>
         <a href="https://www.creativebloq.com/">Creative Blog</a>
     </li>
     <li>
-        <a href="https://tympanus.net/codrops/">Codrops</a>
+        <a href="https://tympanus.net/codrops/">Codrops - Creative front-end resources and inspiration for web</a>
     </li>
     <li>
         <a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs</a>
     </li>
     <li>
-        <a href="https://www.theodinproject.com/">The Odin Project</a>
+        <a href="https://www.theodinproject.com/">The Odin Project - Our full stack curriculum is free and supported by a passionate open source community.</a>
     </li>
     <li>
-        <a href="https://www.codewars.com/">Code Wars</a>
+        <a href="https://www.codewars.com/">Code Wars - Improve your skills by training with others on real code challenges
+</a>
     </li>
     <li>
-        <a href="https://wpsessions.com/">WpSessions</a>
+        <a href="https://wpsessions.com/">WpSessions - Build better websites, find better clients, and grow a better business with the help of industry-leading experts from all over the world!</a>
     </li>
     <li>
-        <a href="https://cssauthor.com/">CSS Author</a>
+        <a href="https://cssauthor.com/">CSS Author - a design and development blog</a>
     </li>
     <li>
-        <a href="https://laracasts.com/">Laracasts</a>
+        <a href="https://laracasts.com/">Laracasts - Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more.</a>
     </li>
     <li>
-        <a href="https://www.webdesignernews.com">Web Design News</a>
+        <a href="https://www.webdesignernews.com">Web Design News - Curated stories for designers</a>
     </li>
     <li>
         <a href="https://uxmovement.com/">UX Movement</a>
     </li>
     <li>
-        <a href="https://www.gradientmagic.com/">Gradient Magic</a>
+        <a href="https://www.gradientmagic.com/">Gradient Magic - A Free Gallery of Fantastic and Unique CSS Gradients</a>
     </li>
     <li>
-        <a href="https://trianglify.io/">Trianglify</a>
+        <a href="https://trianglify.io/">Trianglify - generate triangulated design patterns</a>
     </li>
     <li>
         <a href="https://css-tricks.com/">CSS Tricks</a>
     </li>
     <li>
-        <a href="https://freefrontend.com/">Free Frontend</a>
+        <a href="https://freefrontend.com/">Free Frontend - Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles.</a>
     </li>
     <li>
-        <a href="https://codemyui.com/">Code My UI</a>
+        <a href="https://codemyui.com/">Code My UI - Web Design & UI Inspiration with Code Snippets</a>
     </li>
     <li>
         <a href="https://cssreference.io/">CSS Reference</a>
@@ -149,37 +150,37 @@ focus on what matters</a>
         <a href="https://htmlreference.io/">HTML Reference</a>
     </li>
     <li>
-        <a href="https://www.sitepoint.com/">Site Point</a>
+        <a href="https://www.sitepoint.com/">Site Point - Choose from hundreds of books, courses, and tech talks on web development. Learn HTML, CSS, and JavaScript to React, Docker, and Python.</a>
     </li>
     <li>
-        <a href="https://www.free-css.com/">Free CSS</a>
+        <a href="https://www.free-css.com/">Free CSS - Free CSS Templates, CSS Layouts & More!</a>
     </li>
     <li>
-        <a href="https://pythonawesome.com/">Awesome Python</a>
+        <a href="https://pythonawesome.com/">Awesome Python - A nice collection of often useful awesome Python frameworks, libraries and software.</a>
     </li>
     <li>
         <a href="https://fun-javascript-projects.com/">Fun JavaScript Projects</a>
     </li>
     <li>
-        <a href="https://daily.dev/">Daily Dev</a>
+        <a href="https://daily.dev/">Daily Dev - Get a feed of the hottest developer news personalized to you.</a>
     </li>
     <li>
-        <a href="https://shortcode.dev/">ShortCode Dev</a>
+        <a href="https://shortcode.dev/">ShortCode Dev - A collection of useful snippets and code examples for artisan, blade, cli, css, git, html, javascript, laravel, liquid, markdown, node, php, vue, wordpress, wp-cli, and more.</a>
     </li>
     <li>
-        <a href="https://www.whatruns.com/">What Runs</a>
+        <a href="https://www.whatruns.com/">What Runs - A free browser extension that helps you identify technologies used on any website at the click of a button.</a>
     </li>
     <li>
-        <a href="https://1loc.dev/">1LOC</a>
+        <a href="https://1loc.dev/">1LOC - 286 Favorite JavaScript Utilities in single line of code! No more!</a>
     </li>
     <li>
-        <a href="https://webcode.tools/">Web Code Tools</a>
+        <a href="https://webcode.tools/">Web Code Tools - The ultimate tools for web development</a>
     </li>
     <li>
-        <a href="http://ami.responsivedesign.is/">Am I Responsive</a>
+        <a href="http://ami.responsivedesign.is/">Am I Responsive - check if a website is reponsive or not</a>
     </li>
     <li>
-        <a href="https://www.shapedivider.app/">Shape Divider</a>
+        <a href="https://www.shapedivider.app/">Shape Divider - We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool.</a>
     </li>
     <li>
         <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius</a>
